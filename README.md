@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # House-Rent-Management-System
 
 The house Rent Management System project is really made for the tenant's and the property owner. The owner of the 
@@ -179,3 +180,7 @@ User Panel
 ![Web capture_19-11-2022_1182_localhost](https://user-images.githubusercontent.com/118426413/202840214-68337417-0dd7-45c1-a7b0-d71e87de08ac.jpeg)
 
 
+=======
+# PropertyFlow
+House-Rental-Management-System
+>>>>>>> 156d0209edb1bb5ebbb639db49e2f80859b32758
